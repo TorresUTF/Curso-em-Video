@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Android 7';
+    src: url('Android7.woff2') format('woff2'),
+        url('Android7.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
